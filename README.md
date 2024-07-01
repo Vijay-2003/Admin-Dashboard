@@ -18,8 +18,8 @@ To get started with the React Admin Dashboard, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/react-admin-dashboard.git
-    cd react-admin-dashboard
+    git clone https://github.com/Vijay-2003/Admin-Dashboard.git
+    cd Admin-Dashboard
     ```
 
 2. **Install dependencies**:
@@ -74,10 +74,6 @@ The charts and some other UI elements are powered by Syncfusion components. To l
 
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - [React](https://reactjs.org/)
@@ -86,5 +82,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-For any questions or inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or inquiries, please contact [vijay.kusekar2003@gmail.com@](mailto:vijay.kusekar2003@gmail.com).
 
